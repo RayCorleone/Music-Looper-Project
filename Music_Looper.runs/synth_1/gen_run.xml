@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1610121538">
-  <File Type="RDS-PROPCONSTRS" Name="Looper_Top_drc_synth.rpt"/>
   <File Type="PA-TCL" Name="Looper_Top.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="Looper_Top_drc_synth.rpt"/>
   <File Type="RDS-RDS" Name="Looper_Top.vds"/>
   <File Type="RDS-UTIL" Name="Looper_Top_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="Looper_Top_utilization_synth.pb"/>
